@@ -4,6 +4,8 @@
 - Create a ```.env``` file. 
 - Copy the contents of the ```.env.example```
 - Update the ```VUE_APP_API_URL``` as the url path of the Weather API ```https://github.com/mcoypaco/weather-app-api```. 
+- Run ```npm run serve``` to start the dev server.
+- Open ```http://localhost:8080/``` in the browser.
 
 ---
 
